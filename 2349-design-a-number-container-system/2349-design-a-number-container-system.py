@@ -3,7 +3,6 @@ from sortedcontainers import SortedSet
 
 class NumberContainers:
   def __init__(self):
-
     self.number_to_indices = collections.defaultdict(SortedSet)
     self.index_to_number = {}
 

@@ -1,11 +1,20 @@
 class Solution:
     def countDays(self, days: int, meetings: List[List[int]]) -> int:
-        # Create a set to keep track of all days when meetings are scheduled
-        meeting_days = set()
+        # Sort meetings based on start day
+        meetings.sort()
         
-        # Add all days covered by meetings into the set
+        # Merge overlapping intervals
+        merged_intervals = []
         for start, end in meetings:
-            meeting_days.update(range(start, end + 1))
+            if not merged_intervals or merged_intervals[-1][1] < start:
+                merged_intervals.append([start, end])
+            else:
+                merged_intervals[-1][1] = max(merged_intervals[-1][1], end)
         
-        # Total available days minus days with meetings
-        return days - len(meeting_days)
+        # Calculate the total number of days covered by meetings
+        meeting_days = 0
+        for start, end in merged_intervals:
+            meeting_days += (end - start + 1)
+        
+        # Subtract meeting days from total available days
+        return days - meeting_days

@@ -2,7 +2,7 @@ class Solution:
     def goodTriplets(self, nums1: List[int], nums2: List[int]) -> int:
         n = len(nums1)
 
-        # Map each number to its index in nums2 – so we know their "real" position
+        # Map each number to its index in nums2
         pos = [0] * n
         for i, val in enumerate(nums2):
             pos[val] = i
@@ -27,15 +27,15 @@ class Solution:
         bit = [0] * (n + 2)  # +2 to avoid boundary screams
 
         for i in range(n):
-            # How many elements < mapped[i] have I seen so far?
+            # elements < mapped[i]
             left[i] = query(bit, mapped[i])
-            update(bit, mapped[i] + 1, 1)  # BIT is 1-indexed... of course \U0001f644
+            update(bit, mapped[i] + 1, 1)  # BIT is 1-indexed
 
         right = [0] * n
         bit = [0] * (n + 2)
 
         for i in reversed(range(n)):
-            # How many elements > mapped[i] are still left?
+            # elements > mapped[i] still left
             right[i] = query(bit, n) - query(bit, mapped[i] + 1)
             update(bit, mapped[i] + 1, 1)
 

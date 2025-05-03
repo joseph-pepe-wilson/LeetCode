@@ -1,7 +1,7 @@
 class Solution:
     def minDominoRotations(self, tops: List[int], bottoms: List[int]) -> int:
 
-        for i in [tops[0],bottoms[0]]:
+        for i in [tops[0], bottoms[0]]:
             
             if all(i in d for d in zip(tops, bottoms)):
                 

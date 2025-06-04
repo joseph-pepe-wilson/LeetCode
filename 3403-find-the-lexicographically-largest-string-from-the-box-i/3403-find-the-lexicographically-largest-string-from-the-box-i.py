@@ -1,23 +1,7 @@
 class Solution:
-    def answerString(self, word: str, numFriends: int) -> str:
-        from itertools import combinations
-        
-        # Get all possible indices to split the word into numFriends parts
-        def get_splits(word, numFriends):
-            n = len(word)
-            indices = list(combinations(range(1, n), numFriends - 1))
-            max_str = ""
-
-            for split_points in indices:
-                parts = []
-                start = 0
-                for idx in split_points:
-                    parts.append(word[start:idx])
-                    start = idx
-                parts.append(word[start:])  # Add last segment
-                
-                max_str = max(max_str, max(parts))  # Track largest lexicographical string
-                
-            return max_str
-        
-        return get_splits(word, numFriends)
+    def answerString(self, word: str, n: int) -> str:
+        m=len(word)-n+1 # splits to be done with m length 
+        if n==1: # if only one split we can do total word is taken 
+            return word
+        # else check all m length splits and gind max in them 
+        return max(word[i:i+m] for i in range(len(word)))

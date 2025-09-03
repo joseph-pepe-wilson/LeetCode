@@ -1,26 +1,11 @@
 class Solution:
     def numberOfPairs(self, points: List[List[int]]) -> int:
-        n = len(points)
+        points.sort(key = lambda p : (p[0], -p[1]))
         count = 0
-
-        for i in range(n):
-            ax, ay = points[i]  # Alice's position
-            for j in range(n):
-                if i == j:
-                    continue
-                bx, by = points[j]  # Bob's position
-
-                # Alice must be upper-left, Bob must be lower-right
-                if ax <= bx and ay >= by:
-                    valid = True
-                    for k in range(n):
-                        if k == i or k == j:
-                            continue
-                        x, y = points[k]
-                        if ax <= x <= bx and by <= y <= ay:
-                            valid = False
-                            break
-                    if valid:
-                        count += 1
-
+        for i, (xi, yi) in enumerate(points):
+            b = float('-inf')
+            for xj, yj in points[i + 1 : ]:
+                if yi >= yj > b:
+                    count += 1
+                    b = yj
         return count

@@ -9,6 +9,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -60,4 +62,12 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->

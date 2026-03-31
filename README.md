@@ -16,6 +16,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3474-lexicographically-smallest-generated-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,8 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->

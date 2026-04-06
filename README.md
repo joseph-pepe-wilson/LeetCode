@@ -6,6 +6,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -39,10 +40,12 @@ This repository contains solutions to various LeetCode problems. Each solution i
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |

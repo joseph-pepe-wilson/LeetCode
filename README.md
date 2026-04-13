@@ -8,6 +8,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |

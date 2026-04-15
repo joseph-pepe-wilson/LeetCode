@@ -11,6 +11,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | [1848-minimum-distance-to-the-target-element](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -33,6 +34,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion

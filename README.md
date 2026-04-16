@@ -13,6 +13,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | [2463-minimum-total-distance-traveled](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
@@ -51,6 +52,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/joseph-pepe-wilson/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
